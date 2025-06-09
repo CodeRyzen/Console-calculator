@@ -21,3 +21,5 @@ Press Enter to exit
 ```
 ## File Structure
   -  calc.py – main script with all the functionality
+## License
+This repository is licensed under the MIT License. All code are my own.
