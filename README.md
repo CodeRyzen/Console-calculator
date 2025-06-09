@@ -14,4 +14,4 @@ A simple command-line calculator written in Python. It supports the four basic a
 Make sure you have Python 3 installed. Then run the script in your terminal:
 
 ```bash
-python calculator.py
+python calc.py
